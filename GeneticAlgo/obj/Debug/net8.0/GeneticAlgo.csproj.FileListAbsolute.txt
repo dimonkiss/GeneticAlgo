@@ -1,0 +1,14 @@
+C:\Users\dklxw\RiderProjects\GeneticAlgo\GeneticAlgo\obj\Debug\net8.0\GeneticAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dklxw\RiderProjects\GeneticAlgo\GeneticAlgo\obj\Debug\net8.0\GeneticAlgo.AssemblyInfoInputs.cache
+C:\Users\dklxw\RiderProjects\GeneticAlgo\GeneticAlgo\obj\Debug\net8.0\GeneticAlgo.AssemblyInfo.cs
+C:\Users\dklxw\RiderProjects\GeneticAlgo\GeneticAlgo\obj\Debug\net8.0\GeneticAlgo.csproj.CoreCompileInputs.cache
+C:\Users\dklxw\RiderProjects\GeneticAlgo\GeneticAlgo\bin\Debug\net8.0\GeneticAlgo.exe
+C:\Users\dklxw\RiderProjects\GeneticAlgo\GeneticAlgo\bin\Debug\net8.0\GeneticAlgo.deps.json
+C:\Users\dklxw\RiderProjects\GeneticAlgo\GeneticAlgo\bin\Debug\net8.0\GeneticAlgo.runtimeconfig.json
+C:\Users\dklxw\RiderProjects\GeneticAlgo\GeneticAlgo\bin\Debug\net8.0\GeneticAlgo.dll
+C:\Users\dklxw\RiderProjects\GeneticAlgo\GeneticAlgo\bin\Debug\net8.0\GeneticAlgo.pdb
+C:\Users\dklxw\RiderProjects\GeneticAlgo\GeneticAlgo\obj\Debug\net8.0\GeneticAlgo.dll
+C:\Users\dklxw\RiderProjects\GeneticAlgo\GeneticAlgo\obj\Debug\net8.0\refint\GeneticAlgo.dll
+C:\Users\dklxw\RiderProjects\GeneticAlgo\GeneticAlgo\obj\Debug\net8.0\GeneticAlgo.pdb
+C:\Users\dklxw\RiderProjects\GeneticAlgo\GeneticAlgo\obj\Debug\net8.0\GeneticAlgo.genruntimeconfig.cache
+C:\Users\dklxw\RiderProjects\GeneticAlgo\GeneticAlgo\obj\Debug\net8.0\ref\GeneticAlgo.dll
